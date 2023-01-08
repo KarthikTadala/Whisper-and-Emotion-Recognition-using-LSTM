@@ -1,0 +1,1 @@
+# Whisper-and-Emotion-Recognition-using-LSTM
